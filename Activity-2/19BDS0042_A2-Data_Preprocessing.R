@@ -1,3 +1,4 @@
+library(graphics)
 library(dplyr, warn.conflicts = FALSE)
 library(utils)
 library(rvest)
