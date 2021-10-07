@@ -7,7 +7,7 @@ library(VIM)
 
 # Author : Samarth Gupta
 # Date Last Modified : 30-09-2021
-# Dataset Description : My Dataset For Live Metal And Currencies Exchange Rates From Metals-API
+# Dataset Description : My Dataset For Live Metal And Currencies Exchange Rates From Metals-API.
 
 # Obtaining Data set from internet resources and creating missing values
 data <- read.csv("https://raw.githubusercontent.com/samarthgupta19/CSE-3046-Programming-For-Data-Science-Lab-Codes/main/Activity-3/metals_currencies_live_exchange_rates.csv")
