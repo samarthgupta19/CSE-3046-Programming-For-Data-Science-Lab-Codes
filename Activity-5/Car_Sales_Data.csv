@@ -325,7 +325,7 @@ BMW,15000,vagon,245,3,Gas,yes,2006,530,full
 Audi,13900,other,197,2,Diesel,yes,2006,A6,front
 Hyundai,6800,sedan,140,1.5,Diesel,yes,2008,Accent,front
 BMW,19999,crossover,227,3,Diesel,yes,2006,X5,full
-Hyundai,11500,van,183,2.5,Diesel,yes,2008,H1 пасс.,rear
+Hyundai,11500,van,183,2.5,Diesel,yes,2008,,rear
 Audi,30650,vagon,35,2,Petrol,yes,2013,A4 Allroad,full
 Hyundai,7500,sedan,100,1.4,Petrol,yes,2007,Accent,front
 Hyundai,11200,crossover,90,2,Gas,yes,2008,Tucson,full
@@ -383,7 +383,7 @@ BMW,2899,sedan,260,2,Diesel,no,2000,320,rear
 BMW,15500,sedan,216,2,Diesel,yes,2008,320,rear
 BMW,13700,sedan,276,3,Diesel,yes,2004,530,rear
 BMW,9800,sedan,350,3,Diesel,yes,2001,530,rear
-Hyundai,53000,van,1,2.5,Diesel,yes,2016,H1 пасс.,full
+Hyundai,53000,van,1,2.5,Diesel,yes,2016,,full
 BMW,7000,sedan,286,2.8,Petrol,yes,2001,520,rear
 BMW,7000,other,226,2.5,Petrol,yes,1999,525,rear
 Audi,43000,other,11,1.8,Petrol,yes,2015,A6,front
@@ -591,7 +591,7 @@ BMW,0,crossover,1,3,Diesel,yes,2016,X6,full
 Audi,12500,sedan,165,2.4,Petrol,yes,2006,A6,front
 BMW,36300,crossover,83,3.5,Petrol,yes,2010,X6,full
 Hyundai,7800,hatch,58,1.4,Petrol,yes,2011,i30,front
-Hyundai,15500,crossover,135,3.8,Gas,yes,2009,ix55 (Veracruz),full
+Hyundai,15500,crossover,135,3.8,Gas,yes,2009,ix55 Veracruz,full
 Audi,6557.85,sedan,327,4.2,Gas,yes,2000,A8,full
 BMW,25800,sedan,203,2,Diesel,yes,2010,520,rear
 BMW,5900,vagon,220,2.8,Petrol,yes,1995,520,rear
@@ -654,7 +654,7 @@ Audi,2650,sedan,300,2,Petrol,yes,1987,80,front
 Audi,21900,crossover,183,4.2,Petrol,yes,2007,Q7,full
 Audi,25300,hatch,180,2,Diesel,yes,2011,A5,front
 Audi,30900,hatch,195,3,Diesel,yes,2010,A5,full
-Hyundai,8499,van,148,2.5,Diesel,yes,2008,H1 пасс.,rear
+Hyundai,8499,van,148,2.5,Diesel,yes,2008,,rear
 Hyundai,20200,sedan,0,1.6,Other,yes,2016,Elantra,front
 BMW,77500,crossover,1,3,Petrol,yes,2016,X6,
 BMW,56500,crossover,1,2,Diesel,yes,2016,X5,
@@ -677,7 +677,7 @@ Audi,2900,sedan,1,2.3,Gas,yes,1989,100,front
 Audi,7000,other,126,2.6,Petrol,yes,1998,80,front
 Hyundai,11111,crossover,99,2.7,Petrol,yes,2009,Tucson,full
 BMW,38000,crossover,223,3,Diesel,yes,2011,535,full
-Hyundai,7700,other,265,99.99,Diesel,yes,2003,H1 пасс.,rear
+Hyundai,7700,other,265,99.99,Diesel,yes,2003,,rear
 BMW,7400,sedan,290,3,Petrol,yes,2000,330,rear
 BMW,8800,sedan,287,3,Petrol,yes,2001,530,rear
 Hyundai,16500,sedan,87,2.4,Petrol,yes,2011,Sonata,front
@@ -734,7 +734,7 @@ Audi,21900,other,114,3.2,Petrol,yes,2009,A5,full
 Hyundai,6900,hatch,95,1.4,Petrol,yes,2007,Getz,
 Hyundai,17200,crossover,45,2,Petrol,yes,2013,IX35,front
 Audi,2450,vagon,240,2.5,Diesel,no,2000,A4,front
-Hyundai,16000,crossover,175,3.8,Gas,yes,2007,ix55 (Veracruz),full
+Hyundai,16000,crossover,175,3.8,Gas,yes,2007,ix55 Veracruz,full
 Audi,15500,vagon,180,2,Diesel,yes,2007,A6,front
 Audi,23400,crossover,105,4.2,Gas,yes,2007,Q7,full
 Hyundai,31500,crossover,1,2,Petrol,yes,2016,Tucson,full
@@ -768,7 +768,7 @@ BMW,66500,crossover,0,2,Other,yes,2016,X5,full
 Audi,16300,vagon,180,3.2,Petrol,yes,2006,A6 Allroad,full
 Audi,34000,crossover,119,2,Diesel,yes,2013,Q5,full
 Hyundai,11990,sedan,36,1.4,Petrol,yes,2013,Accent,front
-Hyundai,19500,crossover,105,3,Diesel,yes,2008,ix55 (Veracruz),full
+Hyundai,19500,crossover,105,3,Diesel,yes,2008,ix55 Veracruz,full
 Hyundai,39500,crossover,1,2.2,Diesel,yes,2014,Santa FE,full
 Audi,19999,crossover,117,4.2,Petrol,yes,2007,Q7,full
 Hyundai,12650,hatch,36,1.4,Diesel,yes,2014,i30,front
@@ -1124,7 +1124,7 @@ BMW,8700,other,212,3,Diesel,no,2004,730,rear
 Hyundai,10400,sedan,78,1.4,Petrol,yes,2011,Accent,front
 Hyundai,18499,crossover,39,2,Petrol,yes,2011,IX35,full
 BMW,2850,sedan,386,5,Gas,yes,1988,750,rear
-Hyundai,2300,van,210,2.5,Diesel,yes,1998,H 100 пасс.,rear
+Hyundai,2300,van,210,2.5,Diesel,yes,1998,,rear
 BMW,6100,sedan,205,1.8,Petrol,yes,2001,316,rear
 BMW,72900,crossover,16,3,Diesel,yes,2015,X6,full
 Hyundai,21400,crossover,96,2.2,Diesel,yes,2012,Santa FE,full
@@ -1181,7 +1181,7 @@ Audi,9800,hatch,165,1.6,Gas,yes,2006,A3,front
 BMW,0,crossover,6,4.4,Petrol,yes,2016,X5 M,full
 Hyundai,10900,crossover,97,2,Diesel,yes,2008,Tucson,full
 Audi,33900,other,14,1.8,Petrol,yes,2014,TT,front
-Hyundai,27800,crossover,93,3,Diesel,yes,2012,ix55 (Veracruz),full
+Hyundai,27800,crossover,93,3,Diesel,yes,2012,ix55 Veracruz,full
 Audi,14200,sedan,176,3,Diesel,yes,2005,A6,full
 Audi,3500,sedan,1,2,Other,yes,1988,90,front
 Hyundai,12900,sedan,143,2,Petrol,yes,2010,Sonata,
@@ -1191,7 +1191,7 @@ Audi,33000,crossover,60,2,Petrol,yes,2011,Q5,full
 Hyundai,20700,sedan,18,2.4,Gas,yes,2014,Sonata,front
 BMW,36900,crossover,82,3,Petrol,yes,2010,X6,full
 Audi,35900,sedan,105,2,Diesel,yes,2014,A6,front
-Hyundai,4300,van,250,2.5,Diesel,yes,2001,H1 груз.,rear
+Hyundai,4300,van,250,2.5,Diesel,yes,2001,,rear
 BMW,8400,sedan,220,2.2,Gas,yes,2001,5 Series,rear
 Hyundai,5900,hatch,106,1.6,Petrol,yes,2006,Getz,front
 BMW,8850,vagon,280,2.5,Diesel,yes,2000,525,rear
@@ -1242,7 +1242,7 @@ BMW,51500,crossover,23,3,Petrol,yes,2013,X6,full
 BMW,39900,crossover,82,3,Petrol,yes,2011,X6,full
 Hyundai,23999,crossover,62,2.2,Diesel,yes,2012,Santa FE,full
 Audi,20500,sedan,106,1.8,Petrol,yes,2011,A4,front
-Hyundai,5000,van,5,2.5,Diesel,yes,1999,H 200 пасс.,rear
+Hyundai,5000,van,5,2.5,Diesel,yes,1999,,rear
 BMW,18777,sedan,134,4.4,Petrol,yes,2005,545,rear
 BMW,4950,sedan,1,3,Petrol,yes,1996,730,rear
 Audi,44000,hatch,1,1.4,Petrol,yes,2016,A5,
@@ -1352,7 +1352,7 @@ Hyundai,30900,crossover,0,2,Petrol,yes,2016,Tucson,full
 Hyundai,6700,sedan,54,1.4,Petrol,yes,2008,Accent,front
 Hyundai,0,crossover,0,2.2,Diesel,yes,2016,Santa FE,full
 Hyundai,0,crossover,0,2,Diesel,yes,2016,Tucson,full
-Hyundai,5300,van,342,2.5,Diesel,yes,2000,H 200 груз.,rear
+Hyundai,5300,van,342,2.5,Diesel,yes,2000,,rear
 Hyundai,12777,crossover,102,2,Petrol,yes,2008,Tucson,full
 BMW,4300,other,280,2.5,Petrol,yes,1985,325,rear
 BMW,23700,crossover,117,2,Diesel,yes,2010,X1,rear
@@ -1382,7 +1382,7 @@ BMW,5900,sedan,390,1.8,Gas,yes,1996,318,rear
 BMW,133000,crossover,7,4.4,Petrol,yes,2015,X5 M,full
 BMW,0,crossover,0,3,Diesel,yes,2016,X5,full
 Hyundai,6200,sedan,114,1.4,Petrol,yes,2008,Accent,front
-Hyundai,9100,van,160,2.5,Diesel,yes,2009,H1 груз.,rear
+Hyundai,9100,van,160,2.5,Diesel,yes,2009,,rear
 BMW,112000,sedan,16,3,Diesel,yes,2015,730,full
 BMW,39000,crossover,38,3,Petrol,yes,2009,X6,full
 Audi,6700,sedan,470,2,Diesel,yes,1997,A6,front
@@ -1508,12 +1508,12 @@ Audi,3100,vagon,210,2.5,Diesel,no,2000,A6,front
 Audi,7600,vagon,226,3,Diesel,no,2006,A6,full
 Audi,3400,vagon,223,2.5,Diesel,no,2001,A6,front
 BMW,2200,sedan,290,1.6,Petrol,yes,1985,316,rear
-Hyundai,6200,van,187,2.5,Diesel,yes,2005,H1 пасс.,rear
+Hyundai,6200,van,187,2.5,Diesel,yes,2005,,rear
 BMW,77777,sedan,8,4.4,Petrol,yes,2014,750,full
 Hyundai,9100,crossover,170,2,Petrol,yes,2007,Tucson,full
 BMW,2299,sedan,200,1.8,Petrol,no,1999,318,front
 Audi,5000,sedan,370,2.3,Petrol,yes,1991,100,front
 BMW,44800,sedan,63,4.4,Petrol,yes,2012,750,rear
-Hyundai,5200,other,250,2.5,Diesel,yes,2005,H1 пасс.,rear
+Hyundai,5200,other,250,2.5,Diesel,yes,2005,,rear
 Hyundai,14500,crossover,140,2,Gas,yes,2011,Tucson,front
 Audi,22500,other,71,3.6,Petrol,yes,2007,Q7,full
