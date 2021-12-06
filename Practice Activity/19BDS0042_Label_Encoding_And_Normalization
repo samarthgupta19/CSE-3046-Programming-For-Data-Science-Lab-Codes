@@ -1,0 +1,27 @@
+library(stats)
+library(utils)
+library(caret)
+
+# Author : Samarth Gupta
+# Date Last Modified : 20-10-2021
+# Dataset Description : Dataset For Car Sales Advertisements From Kaggle.
+
+# Obtaining Data Set From Github
+df <- read.csv("https://raw.githubusercontent.com/samarthgupta19/CSE-3046-Programming-For-Data-Science-Lab-Codes/main/Activity-5/Car_Sales_Data.csv")
+#unique(data$car)
+
+# Label Encoding
+df$car = factor(df$car, levels = c('Audi', 'BMW', 'Hyundai'), labels = c(1, 2, 3))
+df
+
+# One Hot Encoding
+dmy <- dummyVars(" ~ .", data = df)
+ohe <- data.frame(predict(dmy, newdata = df))
+ohe
+
+# Min Max Scaling
+min_max_normalization <- function(x){
+  (x-min(x))/(max(x)-min(x))
+}
+normalized_df <- as.data.frame(lapply(df, min_max_normalization))
+head(normalized_df)
